@@ -10,3 +10,10 @@
 }
 
 /* Include any custom CSS styling here! */
+
+
+svg {
+    display: block;
+    margin: 0 auto;
+    font: 10px sans-serif;
+}
